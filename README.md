@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Artin1387
-- 👀 I’m interested in learn modeling 3D and C++. 	
+- 👀 I’m interested in learn modeling 3D, C++, Python. 	
 - 🌱 I’m currently learning C++ and Python.
 - 💞️ I’m looking to collaborate on my projects to build software(game or application).
 - 📫 How to reach me... it's my phone number: +98 9305599496.
