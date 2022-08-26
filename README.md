@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Artin1387
+- 👋 Hi, I’m @Artin Programmer
 - 👀 I’m interested in learn C++, Python, modeling 3D, Web Dev. 	
 - 🌱 I’m currently learning C++, Python, Web Dev.
 - 💞️ I’m looking to collaborate on my projects to build software(game or application).
