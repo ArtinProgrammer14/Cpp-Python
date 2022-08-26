@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Artin Programmer
-- 👀 I’m interested in learn C++, Python, modeling 3D, Web Dev. 	
+- 👀 I’m interested in learning C++, Python, modeling 3D, Web Dev(JavaScript, HTML, CSS). 	
 - 🌱 I’m currently learning C++, Python, Web Dev.
 - 💞️ I’m looking to collaborate on my projects to build software(game or application).
 - 📫 How to reach me... it's my phone number: +98 9305599496.
