@@ -1,2 +1,2 @@
-# Python🐍 & C++⚡️ Open Source Projects
+# C++⚡️ Open Source Projects & Mini Projects
 # <b> Artin.Programmer <b>
